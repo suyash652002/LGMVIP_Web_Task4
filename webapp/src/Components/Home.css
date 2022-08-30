@@ -1,0 +1,25 @@
+.home{
+    width: 100%;
+    display: flex;
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url("C:\Users\Suyash\Desktop\LGMVIP_Web-task2\web-app\src\7123.jpg");
+    background: rgb(248, 163, 225);
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,241,1) 22%, rgba(255,255,255,1) 100%);
+    background-size: cover;
+    background-position: center;
+}
+.home .content{
+    flex: 1 1 640px;
+    margin-top: 10px;
+    margin-left: 600px;
+    padding: 50px 25px;
+}
+
+
+
+
+
